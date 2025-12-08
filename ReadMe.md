@@ -222,7 +222,7 @@
 <td width="25%" align="center">
 
 ### 🔬 AI & ML
-<img src="https://img.icons8.com/clouds/100/000000/artificial-intelligence.png" width="80"/>
+<img src="https://img.icons8.com/color/100/artificial-intelligence.png" width="80"/>
 
 **Focus Areas:**
 - Educational AI Systems
