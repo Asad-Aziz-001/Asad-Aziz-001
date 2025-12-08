@@ -219,7 +219,7 @@
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🔬 AI & ML
 <img src="https://img.icons8.com/clouds/100/000000/artificial-intelligence.png" width="80"/>
