@@ -394,6 +394,9 @@
   <a href="https://wa.me/923180003308">
     <img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
+  <a href="https://asad-aziz-001.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-0077B5?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
 </p>
 
 <p align="center">
