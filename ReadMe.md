@@ -385,7 +385,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/asad-aziz-140p">
+  <a href="linkedin.com/in/asad-aziz-ai">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:asadaziz40p@gmail.com">
